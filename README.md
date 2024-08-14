@@ -7,8 +7,13 @@ The main goal of interviews at TRACT is to find a good fit. We hope that you wil
 # The challenge
 
 Martin is a DevOps engineer. he is part of small team of DevOps engineers helping the development team to build and deploy their code.
-The company has registered an org account in GCP platform and want to start the development (access will be shared on the interview itself).
+The company has registered an org account in GCP platform and want to start the development.
 They want to build their infrastructure in code and develop a CI/CD pipeline to deploy the app code in to the infrastructure resources
+
+# Your Goal
+
+Martin should help the development team by building them the infrastructure resource that they need.
+
 
 # Tools of interest
 
